@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+plotly
+graphviz
+streamlit-option-menu
